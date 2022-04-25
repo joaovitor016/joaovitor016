@@ -1,4 +1,4 @@
-### Olá, eu sou o João, formado em ads, em busca de engreçar na área de ti.
+### Olá, eu sou o João, formado em ads, em busca de ingressar na área de ti.
 
 <div align="center">
   <a href="https://github.com/joaovitor016">
